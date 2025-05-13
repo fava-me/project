@@ -12,4 +12,4 @@ import streamlit as st
 st.subheader("Lung Cancer Mortality Rate Prediction project")
 st.title("My goal,:smile:")
 st.write("My name is Hannah Laichena and my goal was to create a model that would be able to predict the mortality rate of lung cancer patients and to also recommend better treatment methods to be used by the patients.")
-st.write("I used a dataset from kaggle and the link is [https://www.kaggle.com/datasets/masterdatasan/lung-cancer-mortality-datasets-v2]. To view the EDA I performed on the dataset and the model I built checkout the git repository link [Lung_Cancer_EDA____Mortality_Prediction.ipynb]")
+st.write("I used a dataset from kaggle and the link is [https://www.kaggle.com/datasets/masterdatasan/lung-cancer-mortality-datasets-v2]. To view the EDA I performed on the dataset and the model I built checkout the git repository link [https://github.com/fava-me/project/blob/0ac5e88d00f1a1e265ecc1698743b6daa18ab669/lung_cancer_eda____mortality_rate_prediction.py]")
